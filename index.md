@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+---
+---
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/motla/motla.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I design mostly electronic products and software. I work for start-ups, research, industry and artists.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
 
-### Markdown
+## Some of my previous works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As lead engineer at [ONWI](//onwi.fr/){:target="_blank"}, a small electronics design office and medium-sized batch productions unit.
 
-```markdown
-Syntax highlighted code block
+{% include portfolio.html %}
 
-# Header 1
-## Header 2
-### Header 3
+## Some of my publications
 
-- Bulleted
-- List
+As engineer-researcher at [CEA Leti](//leti-cea.com/cea-tech/leti/english){:target="_blank"}, the largest French public science research center.
 
-1. Numbered
-2. List
+{% include papers.html %}
 
-**Bold** and _Italic_ and `Code` text
+## What I do
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Software / Firmware
 
-### Jekyll Themes
+**Programming languages** | **Frameworks**                 | **Cryptology**
+JavaScript                | Vue.js, PixiJS, Node.js        | AES, RSA, SHA
+C / Embedded C            | Apache Cordova (iOS / Android) | 
+HTML5 / CSS3              | Electron                       | **Favorite IDEs**
+WebGL 2D                  | QT                             | VSCode
+C++                       | lwIP, Segger emWin             | Eclipse-based
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/motla/motla.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<br>
 
-### Support or Contact
+### Hardware
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**MCU & FPGA**            | **EDA & CAD**
+ESP32                     | Autodesk Eagle
+STM32, STM8               | Autodesk Fusion 360
+Renesas RA, RL78          | SolidWorks
+NXP, other ARM Cortex-M   | KiCad
+Xilinx Spartan FPGA       |
+
+<br>
+
+### Technologies
+
+**Wireless**          | **Transport & protocols** | **Technologies**      |
+Bluetooth Low-Energy  | SPI, I2C, CAN, 1-wire     | Brushless motor ESC   |
+Bluetooth Mesh        | UART / RS232              | Induction             |
+LoRaWAN               | RS485 / DMX               | LCD / OLED displays   |
+Wi-Fi                 | USB                       | Sensors / Touch       |
+868 Mhz               | Ethernet, Modbus          | Audio
+
+<br>
+
+### Project management
+Agile based management: scrum events, user story tasks, continuous integration, test-driven development.
+
+<br>
+
+## What I don't do
+
+---
+
+**I don't do military, spatial, aviation, automotive.** Also I'm not a big fan of Python, C#, Ruby, Perl, ASP.NET, Visual Basic and outdated languages.
