@@ -14,7 +14,7 @@ As lead engineer at [ONWI](//onwi.fr/){:target="_blank"}, a small electronics de
 
 ## Some of my publications
 
-As engineer-researcher at [CEA Leti](//leti-cea.com/cea-tech/leti/english){:target="_blank"}, the largest French public science research center.
+As engineer-researcher at [CEA Leti](//leti-cea.com/cea-tech/leti/english){:target="_blank"}, part of the largest French public science research center.
 
 {% include papers.html %}
 
