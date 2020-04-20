@@ -25,7 +25,7 @@ As a research engineer at [CEA Leti](//leti-cea.com/cea-tech/leti/english){:targ
 ### Software / Firmware
 
 **Programming languages** | **Frameworks**                 | **Cryptology**
-JavaScript                | Vue.js, PixiJS, Node.js        | AES, RSA, SHA
+JavaScript                | Vue.js, Pixi.js, Node.js       | AES, RSA, SHA
 C / Embedded C            | Apache Cordova (iOS / Android) | 
 HTML5 / CSS3              | Electron                       | **Favorite IDEs**
 WebGL 2D                  | QT                             | VSCode
@@ -35,12 +35,12 @@ C++                       | lwIP, Segger emWin             | Eclipse-based
 
 ### Hardware
 
-**MCU & FPGA**            | **EDA & CAD**
-ESP32                     | Autodesk Eagle
-STM32, STM8               | Autodesk Fusion 360
-Renesas RA, RL78          | SolidWorks
-NXP, other ARM Cortex-M   | KiCad
-Xilinx Spartan FPGA       |
+**MCU & FPGA**                  | **EDA & CAD**
+ESP32                           | Autodesk Eagle
+STM32, STM8                     | Autodesk Fusion 360
+nRF52, NXP, other ARM Cortex-M  | SolidWorks
+Renesas RL78                    | KiCad
+Xilinx Spartan FPGA             |
 
 <br>
 
