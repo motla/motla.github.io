@@ -6,15 +6,15 @@ I design mostly electronic products and software. I work for start-ups, research
 
 <br>
 
-## Some of my previous works
+## Portfolio
 
-As lead engineer at [ONWI](//onwi.fr/){:target="_blank"}, a small electronics design office and medium-sized batch productions unit.
+As lead engineer at [ONWI](//onwi.fr/){:target="_blank"}, a small electronics design office and medium-sized batch production unit
 
 {% include portfolio.html %}
 
-## Some of my publications
+## Publications
 
-As engineer-researcher at [CEA Leti](//leti-cea.com/cea-tech/leti/english){:target="_blank"}, part of the largest French public science research center.
+As a research engineer at [CEA Leti](//leti-cea.com/cea-tech/leti/english){:target="_blank"}, part of the largest French public science research center
 
 {% include papers.html %}
 

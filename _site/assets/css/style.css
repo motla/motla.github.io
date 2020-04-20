@@ -255,9 +255,9 @@ section { width: 700px; }
 
 .papers > div > div { padding: 15px; background: rgba(255, 255, 255, 0.8); backdrop-filter: blur(2px); }
 
-img.linkedin { opacity: 0.3; }
+img.linkicon { opacity: 0.3; margin-right: 10px; }
 
-img.linkedin:hover { opacity: 0.5; }
+img.linkicon:hover { opacity: 0.5; }
 
 @media print, screen and (max-width: 960px) { div.wrapper, header, section, footer { width: auto; } }
 @media print, screen and (max-width: 480px) { body { padding: 15px; } }
