@@ -35,6 +35,23 @@ section {
   width: 700px;
 }
 
+::-webkit-scrollbar {
+  width: 16px;
+  height: 16px;
+}
+::-webkit-scrollbar-track {
+  display: none;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 5px solid transparent;
+  border-radius: 16px;
+  background-clip: content-box;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
 .portfolio, .tech, .papers {
   display: flex;
   flex-wrap: wrap;
@@ -100,6 +117,24 @@ section {
   }
   & > div:hover > div {
     opacity: 1;
+  }
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    display: none;
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0);
+    border: 3px solid transparent;
+    border-radius: 10px;
+    background-clip: content-box;
+  }
+  :hover::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(255, 255, 255, 1.0);
   }
 }
 .portfolio * {
