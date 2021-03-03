@@ -2,7 +2,7 @@
 ---
 # Welcome
 
-I design mostly electronic products and software. I work for start-ups, research, industry and artists.
+I design electronic products and software. I mostly work for start-ups, research, industry and artists.
 
 <div>
 <strong><a href="https://motla.design" target="_blank">▸ Customer portal</a></strong>
@@ -52,7 +52,7 @@ I design mostly electronic products and software. I work for start-ups, research
     <td><small>(1.50€ / min)</small></td>
   </tr>
   <tr>
-    <td>Urgent interventions, late night and week-end work surcharge</td>
+    <td>Surcharge for urgent interventions, late night and week-end work</td>
     <td>+ 75%</td>
     <td></td>
   </tr>
@@ -91,7 +91,7 @@ Here are some commercial projects I contributed on, most of them in collaboratio
 
 ## Open-source projects
 
-I allow some of my time to open-source contributions, here are some.
+I allow some of my time to open-source contributions, here are some creations.
 
 {% include open-source.html %}
 
