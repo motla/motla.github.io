@@ -85,7 +85,7 @@ I design electronic products and software. I mostly work for start-ups, research
 
 ## Electronic products
 
-Here are some commercial projects I contributed on, most of them in collaboration with [ONWI](https://www.onwi.fr/){:target="_blank"}, a small electronics design office and medium-sized production unit based in Lyon, France.
+Here are some commercial projects I contributed on, most of them in collaboration with [ONWI](https://www.onwi.fr/){:target="_blank"}, a small electronics design office and medium-sized production unit based near Lyon, France.
 
 {% include products.html %}
 
