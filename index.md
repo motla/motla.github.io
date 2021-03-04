@@ -52,7 +52,7 @@ I design electronic products and software. I mostly work for start-ups, research
     <td><small>(1.50€ / min)</small></td>
   </tr>
   <tr>
-    <td>Surcharge for urgent interventions, late night and week-end work</td>
+    <td>Surcharge for urgent interventions, late night or week-end work</td>
     <td>+ 75%</td>
     <td></td>
   </tr>
