@@ -83,7 +83,7 @@ Je conçois des produits électroniques et des logiciels. Je travaille principal
 
 ## Produits électroniques
 
-Voici quelques exemples de projets commerciaux sur lesquels j'ai contribué, la plupart en collaboration avec [ONWI](https://www.onwi.fr/){:target="_blank"}, un petit bureau d'études électronique et production de taille moyenne basée près de Lyon.
+Voici quelques exemples de projets commerciaux sur lesquels j'ai contribué, la plupart en collaboration avec [ONWI](https://www.onwi.fr/){:target="_blank"}, un petit bureau d'études électronique et production de taille moyenne basé près de Lyon.
 
 <div class="products">
   <div style="background-image: url(assets/images/products/ewincher.jpg)">
