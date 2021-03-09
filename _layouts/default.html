@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-{% if page.url == "/en" %}
+{% if page.url == "/en.html" %}
 <html lang="en-US">
 {% else %}
 <html lang="fr-FR">
@@ -39,7 +39,7 @@
           </a>
         </div>
 
-        {% if page.url == "/en" %}
+        {% if page.url == "/en.html" %}
         <p>Electronics engineer<br>Web & firmware developer<br>Product designer</p>
         <p>8+ years experience</p>
         {% else %}
@@ -48,10 +48,10 @@
         {% endif %}
 
         <p style="padding-top: 10px">
-          {% if page.url == "/en" %}
+          {% if page.url == "/en.html" %}
           <a href="https://www.mines-stetienne.fr/en/academic/ismin-masters-degree-in-microelectronics-and-computer-science" target="_blank">
           {% else %}
-          <a href="https://www.mines-stetienne.fr/formation/ismin/" target="_blank"></a>
+          <a href="https://www.mines-stetienne.fr/formation/ismin/" target="_blank">
           {% endif %}
             <img src="assets/images/ensmse.png" width="115" height="25">
           </a>
