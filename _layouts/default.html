@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+{% if page.url == "/en" %}
+<html lang="en-US">
+{% else %}
+<html lang="fr-FR">
+{% endif %}
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,6 +17,11 @@
     <script async defer src="https://buttons.github.io/buttons.js"></script>
   </head>
   <body>
+
+    {% if page.url == "/" %}
+    <script>if((navigator.language || navigator.userLanguage).toLowerCase().indexOf("-fr") < 0) document.location = "/en";</script>
+    {% endif %}
+
     <div class="wrapper">
       <header>
         {% if site.logo %}
@@ -20,7 +29,7 @@
         {% endif %}
 
         <h2 style="margin-bottom: 10px">Romain Lamothe</h2>
-        <h3 style="margin-bottom: 20px"><script>document.write('<a href="mailto:'+'roma'+'in@mo'+'tla.fr">'+'roma'+'in@mo'+'tla.fr</a>')</script></h3>
+        <h3 style="margin-bottom: 20px"><script>document.write(['tla.fr</a>','tla.fr">romain@mo','in@mo','<a href="mailto:roma'].reverse().join(''))</script></h3>
         <div style="margin-bottom: 20px">
           <a href="https://www.linkedin.com/in/romainlamothe/" target="_blank">
             <img class="linkicon" src="assets/images/linkedin.png" title="LinkedIn">
@@ -30,20 +39,33 @@
           </a>
         </div>
 
+        {% if page.url == "/en" %}
         <p>Electronics engineer<br>Web & firmware developer<br>Product designer</p>
-
         <p>8+ years experience</p>
+        {% else %}
+        <p>Ingénieur Électronique<br>Développeur Web & firmware<br>Concepteur produit</p>
+        <p>8+ années d'expérience</p>
+        {% endif %}
 
         <p style="padding-top: 10px">
+          {% if page.url == "/en" %}
           <a href="https://www.mines-stetienne.fr/en/academic/ismin-masters-degree-in-microelectronics-and-computer-science" target="_blank">
+          {% else %}
+          <a href="https://www.mines-stetienne.fr/formation/ismin/" target="_blank"></a>
+          {% endif %}
             <img src="assets/images/ensmse.png" width="115" height="25">
           </a>
         </p>
 
-        <div style="margin-bottom: 20px">
+        <p>
           <!--<script>document.write(Math.floor((new Date() - new Date("1990-04-11").getTime()) / 3.15576e+10))</script>,-->
           <a href="https://en.wikipedia.org/wiki/Lyon" target="_blank">@Lyon, France</a>
-        </div>
+        </p>
+
+        <p style="margin-bottom: 20px">
+          <span style="margin-right: 10px"><a href="/fr"><img class="flag" src="assets/images/fr.png" width="24" height="16"></a></span>
+          <span><a href="/en"><img class="flag" src="assets/images/en.png" width="24" height="16"></a></span>
+        </p>
 
         {% if site.show_downloads %}
         <ul class="downloads">

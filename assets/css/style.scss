@@ -18,6 +18,11 @@ img.logo {
   margin-bottom: 15px;
 }
 
+img.flag {
+  border: solid 1px #EEE;
+  border-radius: 2px;
+}
+
 a:hover, a:focus {
   font-weight: inherit;
 }
@@ -51,6 +56,10 @@ tr.subsection > td {
     color: #727272;
     padding-left: 40px;
   }
+}
+
+td.nowrap {
+  white-space: nowrap;
 }
 
 details {
