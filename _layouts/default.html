@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-{% if page.url == "/en.html" %}
-<html lang="en-US">
-{% else %}
+{% if page.url == "/fr.html" %}
 <html lang="fr-FR">
+{% else %}
+<html lang="en-US">
 {% endif %}
   <head>
     <meta charset="UTF-8">
@@ -19,7 +19,7 @@
   <body>
 
     {% if page.url == "/" %}
-    <script>if((navigator.language || navigator.userLanguage).toLowerCase().indexOf("fr") < 0) document.location = "/en";</script>
+    <script>if((navigator.language || navigator.userLanguage).toLowerCase().indexOf("fr") >= 0) document.location = "/fr";</script>
     {% endif %}
 
     <div class="wrapper">
@@ -39,19 +39,19 @@
           </a>
         </div>
 
-        {% if page.url == "/en.html" %}
-        <p>Electronics engineer<br>Web & firmware developer<br>Product designer</p>
-        <p>8+ years experience</p>
-        {% else %}
+        {% if page.url == "/fr.html" %}
         <p>Ingénieur Électronique<br>Développeur Web & firmware<br>Concepteur produit</p>
         <p>8+ années d'expérience</p>
+        {% else %}
+        <p>Electronics engineer<br>Web & firmware developer<br>Product designer</p>
+        <p>8+ years experience</p>
         {% endif %}
 
         <p style="padding-top: 10px">
-          {% if page.url == "/en.html" %}
-          <a href="https://www.mines-stetienne.fr/en/academic/ismin-masters-degree-in-microelectronics-and-computer-science" target="_blank">
-          {% else %}
+          {% if page.url == "/fr.html" %}
           <a href="https://www.mines-stetienne.fr/formation/ismin/" target="_blank">
+          {% else %}
+          <a href="https://www.mines-stetienne.fr/en/academic/ismin-masters-degree-in-microelectronics-and-computer-science" target="_blank">
           {% endif %}
             <img src="assets/images/ensmse.png" width="115" height="25">
           </a>

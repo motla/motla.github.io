@@ -1,3 +1,3 @@
 ---
 ---
-{% include fr-content.md %}
+{% include en-content.md %}
