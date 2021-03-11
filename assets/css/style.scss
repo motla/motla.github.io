@@ -214,9 +214,6 @@ details {
     & > div {
       height: 210px;
     }
-    & > div > div {
-      opacity: 1;
-    }
   }
 }
 
@@ -237,6 +234,14 @@ details {
       padding: 15px;
       background: rgba(255, 255, 255, 0.8);
       backdrop-filter: blur(2px);
+    }
+  }
+}
+
+.products, .open-source {
+  @media print {
+    & > div > div {
+      opacity: 1;
     }
   }
 }
