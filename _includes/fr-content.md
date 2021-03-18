@@ -172,7 +172,7 @@ Voici quelques exemples de projets commerciaux sur lesquels j'ai contribué, la 
       <div class="content">
         <h2>Système de chauffage régulé</h2>
         <div><a href="http://www.temiq.fr/" target="_blank">temiq.fr</a></div>
-        <div class="desc">Système de contrôle avancé. Niveau de sécurité industrielle avec plus de 100 exigences et variables. Contrôle à distance par Modbus, via Ethernet ou RS485.</div>
+        <div class="desc">Système de contrôle de chaufferie avancé. Niveau de sécurité industrielle avec plus de 100 exigences et variables. Contrôle à distance par Modbus, via Ethernet ou RS485.</div>
       </div>
     </div>
   </div>
