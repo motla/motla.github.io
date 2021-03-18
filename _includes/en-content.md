@@ -278,7 +278,7 @@ Wi-Fi                 | USB                       | Sensors / Touch       |
 <br>
 
 ### Project management
-Agile based management: scrum events, user story tasks, continuous integration, test-driven development.
+Agile based management: Scrum (development in sprints), user story tasks, continuous integration, test-driven development.
 
 <br>
 

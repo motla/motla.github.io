@@ -278,7 +278,7 @@ Wi-Fi                 | USB                       | Capteurs / Touch      |
 <br>
 
 ### Gestion de projet
-Gestion basée sur la méthode Agile: évènements du Scrum, tâches « user story », intégration continue, développements pilotés par les tests.
+Gestion basée sur la méthode Agile: Scrum (développement en sprints), tâches « user story », intégration continue, développements pilotés par les tests.
 
 <br>
 
