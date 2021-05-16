@@ -60,7 +60,7 @@ Je conçois des produits électroniques et des logiciels. Je travaille principal
     <td></td>
   </tr>
   <tr class="section">
-    <td>Frais de transport:</td>
+    <td>Frais de déplacement:</td>
     <td></td>
     <td></td>
   </tr>
