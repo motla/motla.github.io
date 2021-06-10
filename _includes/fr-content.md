@@ -4,6 +4,7 @@ Je conçois des produits électroniques et des logiciels. Je travaille principal
 
 <div>
 <strong><a href="https://motla.design" target="_blank">▸ Portail client</a></strong>
+<!--
 <details>
 <summary>Tarifs</summary>
 <br>
@@ -75,8 +76,8 @@ Je conçois des produits électroniques et des logiciels. Je travaille principal
     <td></td>
   </tr>
 </table>
-
 </details>
+-->
 </div>
 
 <br>

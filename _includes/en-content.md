@@ -4,6 +4,7 @@ I design electronic products and software. I mostly work for start-ups, research
 
 <div>
 <strong><a href="https://motla.design" target="_blank">▸ Customer portal</a></strong>
+<!--
 <details>
 <summary>Consultancy rates</summary>
 <br>
@@ -75,8 +76,8 @@ I design electronic products and software. I mostly work for start-ups, research
     <td></td>
   </tr>
 </table>
-
 </details>
+-->
 </div>
 
 <br>
