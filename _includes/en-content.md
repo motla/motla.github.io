@@ -4,80 +4,6 @@ I design electronic products and software. I mostly work for start-ups, research
 
 <div>
 <strong><a href="https://motla.design" target="_blank">▸ Customer portal</a></strong>
-<!--
-<details>
-<summary>Consultancy rates</summary>
-<br>
-<h2>Consultancy rates</h2>
-<table class="dark">
-  <tr>
-    <td>Quote based on a detailed specification document</td>
-    <td>Free</td>
-    <td></td>
-  </tr>
-  <tr class="section">
-    <td>Pre-study, functional analysis, R&D study, design, programming, testing:</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr class="subsection">
-    <td>Projects rate (sprint duration ≥ 80 hours)</td>
-    <td>80€ / hour</td>
-    <td><small>(640€ / day)</small></td>
-  </tr>
-  <tr class="subsection">
-    <td>Short intervention rate (sprint duration < 80 hours)</td>
-    <td>90€ / hour</td>
-    <td><small>(720€ / day)</small></td>
-  </tr>
-  <tr>
-    <td>Prototypes manufacturing rate</td>
-    <td>65€ / hour</td>
-    <td><small>(520€ / day)</small></td>
-  </tr>
-  <tr class="section">
-    <td>Support (technical calls and meetings unrelated to a sprint delivery):</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr class="subsection">
-    <td>2% of the sprint duration is included at no extra cost</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr class="subsection">
-    <td>Support rate</td>
-    <td>90€ / hour</td>
-    <td><small>(1.50€ / min)</small></td>
-  </tr>
-  <tr>
-    <td>Surcharge for urgent interventions, late night or week-end work</td>
-    <td>+ 75%</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Discount to projects with globally positive environmental impact</td>
-    <td>- 25%</td>
-    <td></td>
-  </tr>
-  <tr class="section">
-    <td>Travel expenses:</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr class="subsection">
-    <td>Lyon city and nearby</td>
-    <td><a href="https://lpa.citiz.coop/english" target="_blank">Citiz rental rate</a></td>
-    <td></td>
-  </tr>
-  <tr class="subsection">
-    <td>Other locations</td>
-    <td>Custom price</td>
-    <td></td>
-  </tr>
-</table>
-</details>
--->
 </div>
 
 <br>
@@ -222,7 +148,7 @@ Here are some commercial projects I contributed on, most of them in collaboratio
       </div>
       <div class="content">
         <h2>EM-field meter for MRIs</h2>
-        <div><a href="https://www.ltsi.univ-rennes1.fr/" target="_blank">INSERM</a></div>
+        <div><a href="https://ltsi.univ-rennes.fr/" target="_blank">INSERM/LTSI</a></div>
         <div class="desc">Measure of electromagnetic fields inside MRIs for research. Non-magnetic hardware. Data transferred via optical fiber.</div>
       </div>
     </div>

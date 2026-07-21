@@ -4,80 +4,6 @@ Je conçois des produits électroniques et des logiciels. Je travaille principal
 
 <div>
 <strong><a href="https://motla.design" target="_blank">▸ Portail client</a></strong>
-<!--
-<details>
-<summary>Tarifs</summary>
-<br>
-<h2>Tarifs consultations</h2>
-<table class="dark">
-  <tr>
-    <td>Devis basé sur un cahier des charges détaillé</td>
-    <td>Gratuit</td>
-    <td></td>
-  </tr>
-  <tr class="section">
-    <td>Pré-étude, analyse fonctionnelle, étude R&D, conception, programmation, tests:</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr class="subsection">
-    <td>Tarif projet (durée du sprint ≥ 80 heures)</td>
-    <td class="nowrap">80€ / heure</td>
-    <td class="nowrap"><small>(640€ / jour)</small></td>
-  </tr>
-  <tr class="subsection">
-    <td>Tarif intervention courte (durée du sprint < 80 heures)</td>
-    <td class="nowrap">90€ / heure</td>
-    <td class="nowrap"><small>(720€ / jour)</small></td>
-  </tr>
-  <tr>
-    <td>Tarif fabrication de prototypes</td>
-    <td class="nowrap">65€ / heure</td>
-    <td class="nowrap"><small>(520€ / jour)</small></td>
-  </tr>
-  <tr class="section">
-    <td>Support (appels techniques et réunions sans rapport avec une livraison de sprint):</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr class="subsection">
-    <td>2% de la durée des sprints est incluse sans frais supplémentaire</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr class="subsection">
-    <td>Tarif support</td>
-    <td class="nowrap">90€ / heure</td>
-    <td class="nowrap"><small>(1.50€ / min)</small></td>
-  </tr>
-  <tr>
-    <td>Supplément interventions urgentes, travail nocturne ou week-end</td>
-    <td>+ 75%</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Remise sur projets à impact environnemental globalement positif</td>
-    <td>- 25%</td>
-    <td></td>
-  </tr>
-  <tr class="section">
-    <td>Frais de déplacement:</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr class="subsection">
-    <td>Lyon et environs</td>
-    <td class="nowrap"><a href="https://lpa.citiz.coop/particuliers/tarifs-particuliers" target="_blank">Tarif location Citiz</a></td>
-    <td></td>
-  </tr>
-  <tr class="subsection">
-    <td>Autres lieux</td>
-    <td class="nowrap">Tarif personnalisé</td>
-    <td></td>
-  </tr>
-</table>
-</details>
--->
 </div>
 
 <br>
@@ -222,7 +148,7 @@ Voici quelques exemples de projets commerciaux sur lesquels j'ai contribué, la 
       </div>
       <div class="content">
         <h2>Mesureur de champ EM pour IRM</h2>
-        <div><a href="https://www.ltsi.univ-rennes1.fr/" target="_blank">INSERM</a></div>
+        <div><a href="https://ltsi.univ-rennes.fr/" target="_blank">INSERM/LTSI</a></div>
         <div class="desc">Mesure des champs électromagnétiques à l'intérieur des IRM pour la recherche. Matériel non magnétique. Données transférées via fibre optique.</div>
       </div>
     </div>
