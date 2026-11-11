@@ -2,10 +2,6 @@
 
 Je conçois des produits électroniques et des logiciels. Je travaille principalement pour des start-ups, pour la recherche et l'industrie.
 
-<div>
-<strong><a href="https://motla.design" target="_blank">▸ Portail client</a></strong>
-</div>
-
 <br>
 
 ## Produits électroniques
